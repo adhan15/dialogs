@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="i_am_doing_fine">estoy bien</string>
+    <string name="how_are_you_doing">Como estas</string>
+    <string name="water">agua</string>
+
+</resources>
